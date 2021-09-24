@@ -1,0 +1,35 @@
+PyGame Examples...
+Copied From: PyGame Directory
+These games helped me to understand PyGame's more simple intricacies, and got me started on building my own game, located on GitHub. Could be very fun to edit and enhance such games in the future, but no plans yet. Just a cool collection to share with folks who also are looking for direction with PyGame.
+
+Fighting Sim
+Last Updated: May, 2020
+I wanted to make a turn-based fighting simulator, thinking I could make better game features than are in the mobile games that I've dabbled with in the past. Very fun to relearn object-oriented programming, Python programming practices, and game design.
+Includes a leveling system, customizable heroes, and text-based action!
+The turn meter generator works splendidly. The UI could use a lot of work. Definitely a project to expand later.
+
+FizzBuzz.py
+Last updated: April, 2020
+First crack at FizzBuzz! Could definitely use some updating to make the code more DRY, but the input for use IS placed at the top of the script for ease of use. Way to go, Young Skywalker-Campbell!
+
+memoFib.py
+Last updated: March, 2020
+First experiment with memoization! Produces Fibonacci numbers up to the specified point in the for loop at the end. Definitely want to practice with this more, could be interesting in generating data sets.
+
+number guesser.py
+Last updated: February, 2020
+Takes an integer number input, asking the user to guess a number between 1-10. Further edits could include a wider range of numbers to guess from, support for numbers spelled in English. 
+
+primalityMethods.py
+Last updated: April, 2020
+Has a primality test, and methods to fill a notepad document with a list of prime numbers up to a certain amount. Useful tools for later prime work, where necessary.
+
+stopwatch.py
+Last updated: April, 2020
+Functional. Needs window resizing and active time count displays. Otherwise, 100% functional. Could be marketed as a training stopwatch: You aren't looking at the clock, in fact can't even read the tracked time, until after you're done with a specific workout.
+
+Useful_Tools.py
+Last updated: September, 2021
+Initial Python algorithm work for word reversal, May, 2020. Updated 9/21 as algorithm and Python knowledge has increased.
+Also contains a self-referencing dictionary from May, 2020.
+More to come as I continue to build.
